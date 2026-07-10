@@ -2,8 +2,6 @@
 
 Hi there! **Werbeson** here.
 I am a Software Engineer from Brazil (🇧🇷). 
-
-Wellcome to my profile!
 ---
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/werbeson-quadros/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:werbeson.developer@outlook.com)
